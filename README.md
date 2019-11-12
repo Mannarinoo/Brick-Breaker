@@ -1,2 +1,3 @@
 # Projects
-Class Projects
+Brick Breaker Project
+
